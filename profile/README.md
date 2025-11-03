@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="logo.svg" alt="RecCaller.AI Logo" width="120" height="120">
+<img src="reccaller-logo-full.png" alt="RecCaller.AI Logo" width="400">
 
 # 🚀 RecCaller.AI
 
