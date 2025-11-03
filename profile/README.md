@@ -1,5 +1,7 @@
 <div align="center">
   
+<img src="logo.svg" alt="RecCaller.AI Logo" width="120" height="120">
+
 # 🚀 RecCaller.AI
 
 **Universal AI Context Management for Modern Developers**
